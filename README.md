@@ -1,2 +1,2 @@
-# VS javascript
-This repository is for keeping practiced codes in Javascript.
+# empty file
+This repository is for practice.
